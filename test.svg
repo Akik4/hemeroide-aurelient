@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" role="img">
       <title>test</title>
-      <path d="M50,50 h150 a20,20 0 0 1 20,20 
-            l-20,50 a20,20 0 0 1 -20,20
+      <path d="M200,50 l150,0 a20,20 0 0 1 20,20 
+            l-100,500 a30,30 0 0 1 -23,20
             l-150,0 a20,20 0 0 1 -20,-20
-            l20,-50 a20,30 0 0 1 20,-20"
+            l100,-500 a30,30 0 0 1 20,-20"
         
         fill="black" stroke="" stroke-width="3" />
       
