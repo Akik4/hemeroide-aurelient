@@ -1,10 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" role="img" width="100%" height="auto" viewBox="-100 10 5000 750">
       <title>test</title>
-      <path d="M200,50 l150,0 a20,20 0 0 1 20,20 
-            l-100,500 a30,30 0 0 1 -23,20
-            l-150,0 a20,20 0 0 1 -20,-20
-            l100,-500 a30,30 0 0 1 20,-20"
-        
-        fill="black" stroke="" stroke-width="3" />
+      <path d="M200,50 l15,0 a20,20 0 0 1 20,20              l-100,500 a30,30 0 0 1 -23,20             l-150,0 a20,20 0 0 1 -20,-20             l100,-500 a30,30 0 0 1 20,-20" fill="black" stroke="" stroke-width="3"/>
       
 </svg>
